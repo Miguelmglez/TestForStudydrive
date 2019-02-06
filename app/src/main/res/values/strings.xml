@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestForStudydrive</string>
+    <string name="buttonAddConsumer">Add Consumer</string>
+    <string name="buttonAddProducer">Add Producer</string>
+    <string name="nConsumers">Number of consumers: </string>
+    <string name="nProducers">Number of producers: </string>
+</resources>
